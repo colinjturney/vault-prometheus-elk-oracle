@@ -1,0 +1,5 @@
+instantclient-basic-linux*
+vault.txt
+.terraform
+.terraform.lock.hcl
+terraform.tfstate*
